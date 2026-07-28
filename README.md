@@ -6,6 +6,7 @@
 #### Linkedin: 
 #### Github: RyanFenomeno9
 
+---
 
 #### Objetivos profissionais:
   Trabalhar para uma BigTech como desenvolvedor de sistemas. 
