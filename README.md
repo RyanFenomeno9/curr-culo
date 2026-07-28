@@ -34,7 +34,7 @@
   - Concentração nas tarefas
   - Trabalho em equipe
 
-##### Idiomas
+#### Idiomas
   - Português (língua nativa)
   - Inglês (Diploma intermediário)
 
